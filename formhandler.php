@@ -4,7 +4,7 @@ $visitor_email = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$email_from = 'hmm.in'
+$email_from = 'vs1ng.github.io'
 $email_subject = '$subject.\n'
 $email_body = "User Name: $name.\n".
               "User Email: $vistor_email.\n".
